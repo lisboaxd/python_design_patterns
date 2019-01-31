@@ -1,4 +1,4 @@
-## Python Degin Patterns
+## Python Design Patterns
 
 #### Aplicando Padrões de Projetos  com Python
 * Singleton
