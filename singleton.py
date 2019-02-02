@@ -1,5 +1,5 @@
 # Singleton/SingletonPattern.py
-
+# Since 01/2019
 class OnlyOne:
     class __OnlyOne:
         def __init__(self, arg):
