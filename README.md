@@ -1,12 +1,13 @@
 ## Python Design Patterns
 
-#### Aplicando Padrões de Projetos  com Python
-* Singleton
-* Factory
-* Facade
-* Proxy
-* Observer
-* Command
-* Template Methode
-* MVC (Model View Controller)
-* State
+#### Applying Desing Patterns using Python
+
+-   [x] Singleton
+-   [x] Factory
+-   [ ] Facade
+-   [ ] Proxy
+-   [x] Observer
+-   [ ] Command
+-   [ ] Template Methode
+-   [ ] MVC (Model View Controller)
+-   [ ] State
