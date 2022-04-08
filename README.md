@@ -5,7 +5,7 @@
 -   #### Creational
 
     -   [x] Factory
-    -   [ ] Abstract Factory
+    -   [x] Abstract Factory
     -   [ ] Builder
     -   [ ] Prototype
     -   [x] Singleton
